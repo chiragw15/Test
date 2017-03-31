@@ -12,5 +12,17 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(new MyNavigationDrawer(this));
+
+
+
+
+
+
+
+
+
+
+
+        
     }
 }
